@@ -35,10 +35,6 @@
 </h1>
 
 
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</div>
-
 </div> 
 
 
@@ -49,10 +45,15 @@
 ---
 
 ### :fire: My Stats :
+<div id="container" align="center">
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=alaa9985&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alaa9985&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div> 
+
 
 
 
