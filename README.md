@@ -43,6 +43,9 @@
 
 
 - 🔭 I’m currently working as A tech lead @ Legal doctrine
+- 🌱 I’m currently learning Go , Algorithms 
+- 👯 I’m looking to collaborate on some optimisation projects
+- 💬 Ask me about JavaScript, Node JS , ElasticSearch , MongoDB
 ---
 
 ### :fire: My Stats :
