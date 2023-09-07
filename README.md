@@ -39,23 +39,23 @@
 
 👋 Hello, I'm Ala eddine
 
-🚀 Tech Lead at Legal doctrine
-👨‍💻 Passionate about law, tech, and their intersection
-🔗 Transforming legal processes with innovation
-🌐 Building the future of legal services, one line of code at a time
+- 🚀 Tech Lead at Legal doctrine
+- 👨‍💻 Passionate about law, tech, and their intersection
+- 🔗 Transforming legal processes with innovation
+- 🌐 Building the future of legal services, one line of code at a time
 
-🛠️ Expertise:
-🔹 LegalTech Solutions
-🔹 Full-Stack Development
-🔹 AI & Machine Learning
-🔹 Cloud Computing
+- 🛠️ Expertise:
+- 🔹 LegalTech Solutions
+- 🔹 Full-Stack Development
+- 🔹 AI & Machine Learning
+- 🔹 Cloud Computing
 
-💡 On a mission to simplify the legal world:
-📜 Streamlining contracts
-🤖 Automating legal workflows
-📊 Enhancing compliance
+- 💡 On a mission to simplify the legal world:
+- 📜 Streamlining contracts
+- 🤖 Automating legal workflows
+- 📊 Enhancing compliance
 
-🌟 Let's connect and collaborate on the legal tech revolution!
+- 🌟 Let's connect and collaborate on the legal tech revolution!
 ---
 
 ### :fire: My Stats :
