@@ -21,7 +21,7 @@
   <a href="https://www.linkedin.com/in/alaeddine-hachani">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.facebook.com/alaeddine.hachani.9985">
+  <a href="https://www.facebook.com/alaeddine.hachani">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
@@ -39,7 +39,7 @@
 
 👋 Hello, I'm Ala eddine
 
-- 🚀 Tech Lead at Legal doctrine
+- 🚀 Tech manager at Legal doctrine
 - 👨‍💻 Passionate about law, tech, and their intersection
 - 🔗 Transforming legal processes with innovation
 - 🌐 Building the future of legal services, one line of code at a time
